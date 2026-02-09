@@ -1,0 +1,1 @@
+import {handlers} from "@/auth"  //reffering to the auth.ts we just created
